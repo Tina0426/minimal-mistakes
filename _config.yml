@@ -15,15 +15,15 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+locale                   : "zh-CN"
+title                    : "使用Minimal Mistakes主题的Jekyll网站"
+title_separator          : "："
+name                     : "Tina"
+description              : "用Jekyll制作的网站."
+url                      : https://nfunm017.gitee.io/minimal-mistakes# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/minimal-mistakes"# the subpath of your site, e.g. "/blog"
+repository               : "171013017web/minimal-mistakes"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "500×300.png"# path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Tina"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
