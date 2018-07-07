@@ -18,6 +18,8 @@ tags:
 ## SVG的优势/为什么要使用SVG？
 #### 优势①
 简单来说，同一张图片，放大到相同的大小，保存为svg格式的图像并没有出现“锯齿”的现象，而JPEG、GIF、PNG格式保存的图片边缘出现了“锯齿”现象。
+我们来上一张图瞅瞅区别！
+！[SVG图片:vector vs raster](http://beyourowngraphicdesigner.co.uk/wp-content/uploads/2015/02/Vector-vs-Raster-25.png)
 #### 优势②
 > SVG是XML[xml1.0]中用于描述二维图形的语言。SVG支持三种图形对象：矢量图形形状（例如由直线和曲线组成的路径）、图像和文本。
   顾名思义，SVG允许在代码中使用矢量点来描述二维图像。这种优势使SVG被广泛应用到图标、线条图和图表的表示中。
