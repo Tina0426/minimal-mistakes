@@ -5,7 +5,6 @@ categories:
   - 网页设计
 tags:
   - SVG
-classes: wide
 ---
 
  {% include base_path %}
