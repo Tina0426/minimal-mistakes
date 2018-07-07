@@ -26,4 +26,4 @@ tags:
  因为矢量图是使用相对点来保存数据的，所以可以缩放到任意大小而不会损失清晰度。此外，由于SVG仅仅保存矢量点，相比于同等尺寸的JPEG、GIF和PNG，其文件大小更小。
 
 我要强行加入一张星星图！
-![星星SVG图]({{ site.url }}{{ site.baseurl }}/images/Star.svg) 
+![星星SVG图](/minimal-mistakes/images/Star.svg) 
