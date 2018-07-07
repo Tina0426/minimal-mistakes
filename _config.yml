@@ -12,8 +12,8 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+theme: minimal-mistakes-jekyll
 # Site Settings
 locale                   : "zh-CN"
 title                    : "使用Minimal Mistakes主题的Jekyll网站"
