@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /design/
+permalink: /svg/
 title: "svg"
 author_profile: true
 ---

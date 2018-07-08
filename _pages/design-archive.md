@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /design/
+permalink: /posts/
 title: "以分类展示文章"
 author_profile: true
 ---
