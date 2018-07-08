@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "sunrise_Tina" # "air", "aqua", "contrast", "dark", "
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "使用Minimal Mistakes主题的Jekyll网站"
+title                    : "Tina的个人网站"
 title_separator          : "："
 name                     : "Tina"
 description              : "用Jekyll制作的网站."
