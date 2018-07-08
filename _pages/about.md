@@ -1,17 +1,15 @@
 ---
-layout: archive
-permalink: /categories/
-title: "以分类展示文章"
-author_profile: true
+title: "关于我"
+permalink: /about/
+date: 2018-07-08T21:38:52+08:00
 ---
+ 	
+> 南苑 文传 网新小辣鸡 现有技能：一丢丢的PS 一丢丢的网页设计 一丢丢的PPT
+ 	
+### 郭沅宜
 
-{% include base_path %}
-{% include group-by-array collection=site.posts field="categories" %}
-
-{% for category in group_names %}
-  {% assign posts = group_items[forloop.index0] %}
-  <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
-  {% for post in posts %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endfor %}
+[这个是我的简书！](https://www.jianshu.com/u/c5abbe4dfe27)
+ 
+- 已经获得的技能：数字图像处理，网页设计
+- 参与的项目：期末项目和期中项目（理不直气也壮！）
+ - 附加技能： 摸…摸鱼算吗…？
