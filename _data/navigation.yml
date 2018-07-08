@@ -3,12 +3,12 @@ main:
   - title: "简书"
     url: https://www.jianshu.com/u/c5abbe4dfe27
   - title: "SVG制作"
-    url: /minimal-mistakes/_posts/svg
+    url: /svg/
   - title: "界面设计"
-    url: /minimal-mistakes/_posts/interface#界面设计
+    url: /design/
   - title: "平面设计"
-    url: /minimal-mistakes/_posts/graphic#平面设计
+    url: /design/
   - title: "About"
-    url: /minimal-mistakes/_pages/about.md
+    url: /about/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
