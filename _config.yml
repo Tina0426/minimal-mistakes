@@ -23,6 +23,7 @@ description              : "用Jekyll制作的网站."
 url                      : https://nfunm017.gitee.io/
 baseurl                  : "/minimal-mistakes"# the subpath of your site, e.g. "/blog"
 repository               : "171013017web/minimal-mistakes"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+affiliation: "中山大学南方学院 <a href = 'http://wcy.nfu.edu.cn/'>文学与传媒学院</a>   <a href='http://wcy.nfu.edu.cn/a/xueyuangaikuang/zhuanyeshezhi/wangluoyuxinmeitix/'>网络与新媒体</a> "
 teaser                   : "500×300.png"# path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
