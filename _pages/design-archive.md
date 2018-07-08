@@ -1,12 +1,17 @@
 ---
 layout: archive
-title: "SVG"
-permalink: /svg/
-author_profile: false
+permalink: /design/
+title: "以分类展示文章"
+author_profile: true
 ---
 
 {% include base_path %}
+{% include group-by-array collection=site.posts field="categories" %}
 
-{% for post in site.svg %}
-  {% include archive-single.html %}
+{% for category in group_names %}
+  {% assign posts = group_items[forloop.index0] %}
+  <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
+  {% for post in posts %}
+    {% include archive-single.html %}
+  {% endfor %}
 {% endfor %}
