@@ -4,12 +4,7 @@ layout: archive
 
 {{ content }}
 
-{% if page.url != "/" and site.breadcrumbs %}
- 	  {% unless paginator %}
- 	    {% include breadcrumbs.html %}
- 	  {% endunless %}
- 	{% endif %}
- 	
+
 <ul class="taxonomy__index">
   {% assign categories_max = 0 %}
   {% for category in site.categories %}
