@@ -1,14 +1,8 @@
 ---
 title:  "What is SVG?"
-modified: 2018-06-20T12:24:42-04:00
-categories: 
-
 ---
 
- {% include base_path %}
 
- {% include toc title="目录" %}
- 
   {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 # What is SVG?
