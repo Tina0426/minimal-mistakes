@@ -20,7 +20,7 @@ title                    : "使用Minimal Mistakes主题的Jekyll网站"
 title_separator          : "："
 name                     : "Tina"
 description              : "用Jekyll制作的网站."
-url                      : https://nfunm017.gitee.io/minimal-mistakes# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nfunm017.gitee.io/
 baseurl                  : "/minimal-mistakes"# the subpath of your site, e.g. "/blog"
 repository               : "171013017web/minimal-mistakes"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "500×300.png"# path of fallback teaser image, e.g. "/assets/images/500x300.png"
