@@ -9,6 +9,6 @@ main:
   - title: "平面设计"
     url: /design/#平面设计
   - title: "About"
-    url: /about/
+    url: /minimal-mistakes/_pages/about.md
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
