@@ -1,0 +1,36 @@
+<div class="wrapper">
+	<svg width="198" viewBox="0 0 220 200" xmlns="/minimal-mistakes/images/star.xml" xmlns:xlink="\minimal-mistakes\images\star.xml"
+		<title>Star</title>
+		<defs>
+			<style type="text/css">
+				<![CDATA
+				[@keyframes spin{
+				0%{
+				   transform: rotate(odeg);
+				}
+				100%{
+				transform:rotate(360deg);
+				}
+			    }
+				.star_wrapper{
+				    animation: spin 2s 1s;
+				    transform-origin: 50% 50%;}
+				.wrapper{
+				    padding:2rem;
+				    margin:2rem;
+				    }
+				    ]]>
+			</style>
+			<g id="shape">
+				<path fill="#14805e" d="M50 50H50v50H50z"/>
+				<circle fill="#ebebeb" cx="50" cy="50" r="50"/>	
+			</g>
+		</defs>
+		<g class="star_Wapper" fill="none" fill-rule="evenodd">
+		<path id="star_path" stroke="#333" stroke-width="3"
+					fill="#F8E81C" d="m99 1541-58.78 30.902 11.227-65.45l3.894
+					73.097165.717-9.55l99 4129.39 59.55 65.716 9.548-47.553 46.353 11.226
+					65.453z"/>
+					</g>
+	  </svg>
+</div>
