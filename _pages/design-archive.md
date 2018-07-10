@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /design/
+permalink: /design/#平面设计
 title: "以分类展示文章"
 author_profile: true
 ---
