@@ -20,7 +20,7 @@ $masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%) !default;
 $linear-gradient {
     background: linear-gradient(#D28A73, #FFA88C);
-}
+} !default;
 
 /* system typefaces 使用中文字形 */
 $serif: DFKai-SB,Kai,Kaiti SC,KaiTi,BiauKai,\\6977\4F53,\\6977\4F53_GB2312,Songti SC,Georgia, Times, serif !default;
