@@ -4,7 +4,6 @@
 
 /* Colors */
 $dark-gray: #0e2431 !default;
-$background-color: #D28A73 !default;
 $text-color: #3B2315 !default;
 $muted-text-color: $dark-gray !default;
 $primary-color: #D25030 !default;
@@ -19,6 +18,9 @@ $link-color-visited: mix(#000, $link-color, 25%) !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%) !default;
+$linear-gradient {
+    background: linear-gradient(#D28A73, #FFA88C);
+}
 
 /* system typefaces 使用中文字形 */
 $serif: DFKai-SB,Kai,Kaiti SC,KaiTi,BiauKai,\\6977\4F53,\\6977\4F53_GB2312,Songti SC,Georgia, Times, serif !default;
